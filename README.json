@@ -237,7 +237,7 @@
                 "last_commit": "2026-07-30T22:41:22Z",
                 "owner": "fastai",
                 "repo": "fastai",
-                "stars": 28117
+                "stars": 28116
               }
             }
           ]
@@ -323,7 +323,7 @@
             "last_commit": "2022-08-26T22:56:18Z",
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4050
+            "stars": 4051
           }
         },
         {
@@ -342,7 +342,7 @@
                 "last_commit": "2022-08-26T22:56:18Z",
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4050
+                "stars": 4051
               }
             },
             {
@@ -356,7 +356,7 @@
                 "last_commit": "2022-08-26T22:56:18Z",
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4050
+                "stars": 4051
               }
             },
             {
@@ -370,7 +370,7 @@
                 "last_commit": "2022-08-26T22:56:18Z",
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4050
+                "stars": 4051
               }
             }
           ]
@@ -450,7 +450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:03:30.398Z",
+    "last_updated": "2026-08-13T13:53:54.632Z",
     "original_repository": "prakhar1989/awesome-courses",
     "original_repository_sha": "e0b02ce4084c3b426304ae03ffcb072f7c8057f3",
     "enhanced_repository": "enhansome/enhansome-courses",
