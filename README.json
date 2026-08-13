@@ -1,0 +1,460 @@
+{
+  "items": [
+    {
+      "description": "There are a lot of hidden treasures lying within university pages scattered across the internet. This list is an attempt to bring to light those awesome CS courses which make their high-quality materials, i.e. assignments, lectures, notes, readings and examinations, available online for free.",
+      "items": [],
+      "title": "Introduction"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Courses"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "CS 241",
+          "description": "Systems Programming (Spring 2016) Univ of Illinois, Urbana-Champaign",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Crowd Sourced Book",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2020-01-14T21:41:49Z",
+                "owner": "angrave",
+                "repo": "SystemProgramming",
+                "stars": 5752
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ECE 459",
+          "description": "Programming for Performance University of Waterloo",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lecture slides",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TeX",
+                "last_commit": "2015-04-10T03:50:13Z",
+                "owner": "patricklam",
+                "repo": "p4p-2015",
+                "stars": 72
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "CS 75",
+          "description": "Principles of Compiler Design Swathmore College",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2016-04-19T19:41:57Z",
+                "owner": "compilers-course-materials",
+                "repo": "cs75-s16-lectures",
+                "stars": 42
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CIS 198",
+          "description": "Rust Programming UPenn",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Assignments",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Rust",
+                "last_commit": "2023-02-24T16:01:42Z",
+                "owner": "cis198-2016s",
+                "repo": "homework",
+                "stars": 201
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Programming Languages / Compilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CS 2150",
+          "description": "Program & Data Representation University of Virginia",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-25T12:53:18Z",
+            "owner": "aaronbloomfield",
+            "repo": "pdr",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "CS 97SI",
+          "description": "Introduction to Competitive Programming Stanford University",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lectures and Assignments",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2020-12-24T01:43:34Z",
+                "owner": "jaehyunp",
+                "repo": "stanfordacm",
+                "stars": 1663
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Algorithms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Practical_RL",
+          "description": "Reinforcement Learning in the Wild Yandex SDA",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Syllabus",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-03-31T20:00:24Z",
+                "owner": "yandexdataschool",
+                "repo": "Practical_RL",
+                "stars": 6555
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-31T20:00:24Z",
+            "owner": "yandexdataschool",
+            "repo": "Practical_RL",
+            "stars": 6555
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "DEEPNLP",
+          "description": "Deep Learning for Natural Language Processing University of Oxford",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lectures",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2023-07-02T22:46:23Z",
+                "owner": "oxford-cs-deepnlp-2017",
+                "repo": "lectures",
+                "stars": 15857
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CS20si",
+          "description": "Tensorflow for Deep Learning Research Stanford University",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Assignments",
+              "description": "available on Github.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2020-12-22T09:21:55Z",
+                "owner": "chiphuyen",
+                "repo": "stanford-tensorflow-tutorials",
+                "stars": 10371
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Fast.ai Introduction to Machine Learning for Coders",
+          "description": "Fast.ai / University of San Francisco",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jupyter Notebooks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-30T22:41:22Z",
+                "owner": "fastai",
+                "repo": "fastai",
+                "stars": 28117
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Machine Learning: 2014-2015",
+          "description": "University of Oxford",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The course focusses on neural networks and uses the Torch",
+              "description": "deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2025-03-31T20:16:24Z",
+                "owner": "torch",
+                "repo": "torch7",
+                "stars": 9138
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CSCI 4968",
+          "description": "Modern Binary Exploitation Rensselaer Polytechnic Institute",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Labs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2021-12-09T17:20:50Z",
+                "owner": "RPISEC",
+                "repo": "MBE",
+                "stars": 6024
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Projects",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2021-12-09T17:20:50Z",
+                "owner": "RPISEC",
+                "repo": "MBE",
+                "stars": 6024
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-12-09T17:20:50Z",
+            "owner": "RPISEC",
+            "repo": "MBE",
+            "stars": 6024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSCI 4976",
+          "description": "Malware Analysis Rensselaer Polytechnic Institute",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-26T22:56:18Z",
+            "owner": "RPISEC",
+            "repo": "Malware",
+            "stars": 4050
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "EECS 588",
+          "description": "Computer & Network Security University of Michigan",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lectures Notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2022-08-26T22:56:18Z",
+                "owner": "RPISEC",
+                "repo": "Malware",
+                "stars": 4050
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Labs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2022-08-26T22:56:18Z",
+                "owner": "RPISEC",
+                "repo": "Malware",
+                "stars": 4050
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Projects",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2022-08-26T22:56:18Z",
+                "owner": "RPISEC",
+                "repo": "Malware",
+                "stars": 4050
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CS 100",
+          "description": "Open Source Software Construction UC Riverside",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github Page",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2019-04-04T20:44:35Z",
+                "owner": "mikeizbicki",
+                "repo": "ucr-cs100",
+                "stars": 507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Assignments",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2019-04-04T20:44:35Z",
+                "owner": "mikeizbicki",
+                "repo": "ucr-cs100",
+                "stars": 507
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-04-04T20:44:35Z",
+            "owner": "mikeizbicki",
+            "repo": "ucr-cs100",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "CS 193a",
+          "description": "Android App Development, Spring 2016 Stanford University",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Other materials: Some codes, handsout, homework ..... and lecture notes are not downloadable on the site due to login requirement. Please head to my Github repo here",
+              "description": "to download them.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "HTML",
+                "last_commit": "2018-03-02T01:08:08Z",
+                "owner": "luong-komorebi",
+                "repo": "CS193A",
+                "stars": 119
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Misc"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:30.398Z",
+    "original_repository": "prakhar1989/awesome-courses",
+    "original_repository_sha": "e0b02ce4084c3b426304ae03ffcb072f7c8057f3",
+    "enhanced_repository": "enhansome/enhansome-courses",
+    "enhanced_repository_description": null,
+    "title": "Awesome CS Courses with stars"
+  }
+}
