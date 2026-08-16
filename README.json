@@ -139,7 +139,7 @@
                 "last_commit": "2020-12-24T01:43:34Z",
                 "owner": "jaehyunp",
                 "repo": "stanfordacm",
-                "stars": 1663
+                "stars": 1664
               }
             }
           ]
@@ -237,7 +237,7 @@
                 "last_commit": "2026-08-15T09:18:08Z",
                 "owner": "fastai",
                 "repo": "fastai",
-                "stars": 28114
+                "stars": 28116
               }
             }
           ]
@@ -258,7 +258,7 @@
                 "last_commit": "2025-03-31T20:16:24Z",
                 "owner": "torch",
                 "repo": "torch7",
-                "stars": 9137
+                "stars": 9138
               }
             }
           ]
@@ -285,7 +285,7 @@
                 "last_commit": "2021-12-09T17:20:50Z",
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6024
+                "stars": 6026
               }
             },
             {
@@ -299,7 +299,7 @@
                 "last_commit": "2021-12-09T17:20:50Z",
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6024
+                "stars": 6026
               }
             }
           ],
@@ -309,7 +309,7 @@
             "last_commit": "2021-12-09T17:20:50Z",
             "owner": "RPISEC",
             "repo": "MBE",
-            "stars": 6024
+            "stars": 6026
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2022-08-26T22:56:18Z",
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4052
+            "stars": 4053
           }
         },
         {
@@ -342,7 +342,7 @@
                 "last_commit": "2022-08-26T22:56:18Z",
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4052
+                "stars": 4053
               }
             },
             {
@@ -356,7 +356,7 @@
                 "last_commit": "2022-08-26T22:56:18Z",
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4052
+                "stars": 4053
               }
             },
             {
@@ -370,7 +370,7 @@
                 "last_commit": "2022-08-26T22:56:18Z",
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4052
+                "stars": 4053
               }
             }
           ]
@@ -450,7 +450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:03:32.621Z",
+    "last_updated": "2026-08-16T13:05:12.787Z",
     "original_repository": "prakhar1989/awesome-courses",
     "original_repository_sha": "e0b02ce4084c3b426304ae03ffcb072f7c8057f3",
     "enhanced_repository": "enhansome/enhansome-courses",
