@@ -195,7 +195,7 @@
                 "last_commit": "2023-07-02T22:46:23Z",
                 "owner": "oxford-cs-deepnlp-2017",
                 "repo": "lectures",
-                "stars": 15857
+                "stars": 15856
               }
             }
           ]
@@ -237,7 +237,7 @@
                 "last_commit": "2026-08-15T09:18:08Z",
                 "owner": "fastai",
                 "repo": "fastai",
-                "stars": 28116
+                "stars": 28115
               }
             }
           ]
@@ -285,7 +285,7 @@
                 "last_commit": "2021-12-09T17:20:50Z",
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6026
+                "stars": 6027
               }
             },
             {
@@ -299,7 +299,7 @@
                 "last_commit": "2021-12-09T17:20:50Z",
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6026
+                "stars": 6027
               }
             }
           ],
@@ -309,7 +309,7 @@
             "last_commit": "2021-12-09T17:20:50Z",
             "owner": "RPISEC",
             "repo": "MBE",
-            "stars": 6026
+            "stars": 6027
           }
         },
         {
@@ -450,7 +450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:05:12.787Z",
+    "last_updated": "2026-08-17T13:11:45.684Z",
     "original_repository": "prakhar1989/awesome-courses",
     "original_repository_sha": "e0b02ce4084c3b426304ae03ffcb072f7c8057f3",
     "enhanced_repository": "enhansome/enhansome-courses",
