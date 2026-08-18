@@ -166,7 +166,7 @@
                 "last_commit": "2026-03-31T20:00:24Z",
                 "owner": "yandexdataschool",
                 "repo": "Practical_RL",
-                "stars": 6554
+                "stars": 6555
               }
             }
           ],
@@ -176,7 +176,7 @@
             "last_commit": "2026-03-31T20:00:24Z",
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6554
+            "stars": 6555
           }
         },
         {
@@ -216,7 +216,7 @@
                 "last_commit": "2020-12-22T09:21:55Z",
                 "owner": "chiphuyen",
                 "repo": "stanford-tensorflow-tutorials",
-                "stars": 10369
+                "stars": 10370
               }
             }
           ]
@@ -237,7 +237,7 @@
                 "last_commit": "2026-08-15T09:18:08Z",
                 "owner": "fastai",
                 "repo": "fastai",
-                "stars": 28115
+                "stars": 28114
               }
             }
           ]
@@ -258,7 +258,7 @@
                 "last_commit": "2025-03-31T20:16:24Z",
                 "owner": "torch",
                 "repo": "torch7",
-                "stars": 9138
+                "stars": 9140
               }
             }
           ]
@@ -450,7 +450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:11:45.684Z",
+    "last_updated": "2026-08-18T13:14:30.362Z",
     "original_repository": "prakhar1989/awesome-courses",
     "original_repository_sha": "e0b02ce4084c3b426304ae03ffcb072f7c8057f3",
     "enhanced_repository": "enhansome/enhansome-courses",
