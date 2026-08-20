@@ -597,7 +597,7 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 * [6.001](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm) **Structure and Interpretation of Computer Programs** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
   * Teaches big-picture computing concepts using the Scheme programming language. Students will implement programs in a variety of different programming paradigms (functional, object-oriented, logical). Heavy emphasis on function composition, code-as-data, control abstraction with continuations, and syntactic abstraction through macros. An excellent course if you are looking to build a mental framework on which to hang your programming knowledge.
   * [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures)
-  * [Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html) ([epub](https://github.com/sarabander/sicp) ⭐ 4,521 | 🐛 24 | 🌐 HTML | 📅 2023-04-14, [pdf](https://github.com/sarabander/sicp-pdf) ⭐ 4,395 | 🐛 21 | 🌐 Perl | 📅 2024-06-27)
+  * [Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html) ([epub](https://github.com/sarabander/sicp) ⭐ 4,521 | 🐛 24 | 🌐 HTML | 📅 2023-04-14, [pdf](https://github.com/sarabander/sicp-pdf) ⭐ 4,397 | 🐛 21 | 🌐 Perl | 📅 2024-06-27)
   * [IDE](http://www.neilvandyke.org/racket-sicp/)
 * [6.005](http://web.mit.edu/6.005/www/fa16/) **Software Construction, Fall 2016** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
   * This course introduces fundamental principles and techniques of software development. Students learn how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; state machines; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions.
@@ -607,11 +607,11 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ### Machine Learning
 
-* [Practical\_RL](https://github.com/yandexdataschool/Practical_RL) ⭐ 6,558 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31 **Reinforcement Learning in the Wild** *Yandex SDA* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  * [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus) ⭐ 6,558 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31
+* [Practical\_RL](https://github.com/yandexdataschool/Practical_RL) ⭐ 6,557 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31 **Reinforcement Learning in the Wild** *Yandex SDA* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+  * [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus) ⭐ 6,557 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31
   * A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (russian) and maintained to be friendly to online students (both english and russian).
 * [DEEPNLP](https://github.com/oxford-cs-deepnlp-2017/) **Deep Learning for Natural Language Processing** *University of Oxford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-  * [Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) ⭐ 15,856 | 🐛 12 | 📅 2023-07-02
+  * [Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) ⭐ 15,853 | 🐛 12 | 📅 2023-07-02
   * This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. We introduce the mathematical definitions of the relevant machine learning models and derive their associated optimisation algorithms. The course covers a range of applications of neural networks in NLP including analysing latent dimensions in text, transcribing speech to text, translating between languages, and answering questions. This course is organised by Phil Blunsom and delivered in partnership with the **DeepMind Natural Language Research Group**.
   * Assignments are available on the organisation page titled as "practicals"
 * [CS20si](http://web.stanford.edu/class/cs20si/index.html) **Tensorflow for Deep Learning Research** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
@@ -694,7 +694,7 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * [Assignments](http://stanford.edu/class/ee103/homework.html)
   * [Code](http://stanford.edu/class/ee103/julia_files)
 * [Fast.ai Introduction to Machine Learning for Coders](http://course.fast.ai/ml.html) *Fast.ai / University of San Francisco* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  * [Jupyter Notebooks](https://github.com/fastai/fastai/tree/master/courses/ml1) ⭐ 28,115 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2026-08-15
+  * [Jupyter Notebooks](https://github.com/fastai/fastai/tree/master/courses/ml1) ⭐ 28,117 | 🐛 267 | 🌐 Jupyter Notebook | 📅 2026-08-15
   * There are around 24 hours of lessons, and you should plan to spend around 8 hours a week for 12 weeks to complete the material. The course is based on lessons recorded at the University of San Francisco for the Masters of Science in Data Science program. We assume that you have at least one year of coding experience, and either remember what you learned in high school math, or are prepared to do some independent study to refresh your knowledge.
   * [Lecture Videos](http://course.fast.ai/lessonsml1/lessonsml1.html)
   * [Lecture Notes](https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-1-84a1dc2b5236)
@@ -742,9 +742,9 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ### Security
 
-* [CSCI 4968](https://github.com/RPISEC/MBE) ⭐ 6,027 | 🐛 11 | 🌐 C | 📅 2021-12-09 **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
-  * [Labs](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,027 | 🐛 11 | 🌐 C | 📅 2021-12-09
-  * [Projects](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,027 | 🐛 11 | 🌐 C | 📅 2021-12-09
+* [CSCI 4968](https://github.com/RPISEC/MBE) ⭐ 6,026 | 🐛 11 | 🌐 C | 📅 2021-12-09 **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+  * [Labs](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,026 | 🐛 11 | 🌐 C | 📅 2021-12-09
+  * [Projects](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,026 | 🐛 11 | 🌐 C | 📅 2021-12-09
   * This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
     teach Modern Binary Exploitation at [Rensselaer Polytechnic Institute](http://rpi.edu) in
     Spring 2015. This was a university course developed and run solely by students to teach
@@ -1034,4 +1034,4 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
