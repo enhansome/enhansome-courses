@@ -67,7 +67,7 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * [Lecture Notes](https://sites.google.com/site/cs186fall2013/section-notes)
   * [Projects](https://sites.google.com/site/cs186fall2013/homeworks)
 * [CS 241](https://courses.engr.illinois.edu/cs241/sp2016/index.html) **Systems Programming (Spring 2016)** *Univ of Illinois, Urbana-Champaign* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-  * [Crowd Sourced Book](https://github.com/angrave/SystemProgramming/wiki) ⭐ 5,752 | 🐛 0 | 📅 2020-01-14
+  * [Crowd Sourced Book](https://github.com/angrave/SystemProgramming/wiki) ⭐ 5,751 | 🐛 0 | 📅 2020-01-14
   * System programming refers to writing code that tasks advantage of operating system support for programmers. This course is designed to introduce you to system programming. By the end of this course, you should be proficient at writing programs that take full advantage of operating system support. To be concrete, we need to fix an operating system and we need to choose a programming language for writing programs. We chose the C language running on a Linux/UNIX operating system (which implements the POSIX standard interface between the programmer and the OS).
   * [Assignments](https://courses.engr.illinois.edu/cs241/sp2016/mps.html)
   * [Labs](https://courses.engr.illinois.edu/cs241/sp2016/labs.html)
@@ -597,7 +597,7 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 * [6.001](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm) **Structure and Interpretation of Computer Programs** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
   * Teaches big-picture computing concepts using the Scheme programming language. Students will implement programs in a variety of different programming paradigms (functional, object-oriented, logical). Heavy emphasis on function composition, code-as-data, control abstraction with continuations, and syntactic abstraction through macros. An excellent course if you are looking to build a mental framework on which to hang your programming knowledge.
   * [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures)
-  * [Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html) ([epub](https://github.com/sarabander/sicp) ⭐ 4,521 | 🐛 24 | 🌐 HTML | 📅 2023-04-14, [pdf](https://github.com/sarabander/sicp-pdf) ⭐ 4,397 | 🐛 21 | 🌐 Perl | 📅 2024-06-27)
+  * [Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html) ([epub](https://github.com/sarabander/sicp) ⭐ 4,521 | 🐛 24 | 🌐 HTML | 📅 2023-04-14, [pdf](https://github.com/sarabander/sicp-pdf) ⭐ 4,395 | 🐛 21 | 🌐 Perl | 📅 2024-06-27)
   * [IDE](http://www.neilvandyke.org/racket-sicp/)
 * [6.005](http://web.mit.edu/6.005/www/fa16/) **Software Construction, Fall 2016** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
   * This course introduces fundamental principles and techniques of software development. Students learn how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; state machines; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions.
@@ -607,11 +607,11 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ### Machine Learning
 
-* [Practical\_RL](https://github.com/yandexdataschool/Practical_RL) ⭐ 6,557 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31 **Reinforcement Learning in the Wild** *Yandex SDA* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  * [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus) ⭐ 6,557 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31
+* [Practical\_RL](https://github.com/yandexdataschool/Practical_RL) ⭐ 6,558 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31 **Reinforcement Learning in the Wild** *Yandex SDA* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+  * [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus) ⭐ 6,558 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31
   * A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (russian) and maintained to be friendly to online students (both english and russian).
 * [DEEPNLP](https://github.com/oxford-cs-deepnlp-2017/) **Deep Learning for Natural Language Processing** *University of Oxford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-  * [Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) ⭐ 15,853 | 🐛 12 | 📅 2023-07-02
+  * [Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) ⭐ 15,854 | 🐛 12 | 📅 2023-07-02
   * This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. We introduce the mathematical definitions of the relevant machine learning models and derive their associated optimisation algorithms. The course covers a range of applications of neural networks in NLP including analysing latent dimensions in text, transcribing speech to text, translating between languages, and answering questions. This course is organised by Phil Blunsom and delivered in partnership with the **DeepMind Natural Language Research Group**.
   * Assignments are available on the organisation page titled as "practicals"
 * [CS20si](http://web.stanford.edu/class/cs20si/index.html) **Tensorflow for Deep Learning Research** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
@@ -742,15 +742,15 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ### Security
 
-* [CSCI 4968](https://github.com/RPISEC/MBE) ⭐ 6,026 | 🐛 11 | 🌐 C | 📅 2021-12-09 **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
-  * [Labs](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,026 | 🐛 11 | 🌐 C | 📅 2021-12-09
-  * [Projects](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,026 | 🐛 11 | 🌐 C | 📅 2021-12-09
+* [CSCI 4968](https://github.com/RPISEC/MBE) ⭐ 6,030 | 🐛 11 | 🌐 C | 📅 2021-12-09 **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+  * [Labs](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,030 | 🐛 11 | 🌐 C | 📅 2021-12-09
+  * [Projects](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,030 | 🐛 11 | 🌐 C | 📅 2021-12-09
   * This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
     teach Modern Binary Exploitation at [Rensselaer Polytechnic Institute](http://rpi.edu) in
     Spring 2015. This was a university course developed and run solely by students to teach
     skills in vulnerability research, reverse engineering, and binary exploitation.
   * [Lectures Notes](http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/)
-* [CSCI 4976](https://github.com/RPISEC/Malware) ⭐ 4,053 | 🐛 1 | 📅 2022-08-26 **Malware Analysis** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+* [CSCI 4976](https://github.com/RPISEC/Malware) ⭐ 4,054 | 🐛 1 | 📅 2022-08-26 **Malware Analysis** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
   * This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
     teach Malware Analysis at [Rensselaer Polytechnic Institute](http://rpi.edu) in
     Fall 2015. This was a university course developed and run solely by students, primarily using the
@@ -772,9 +772,9 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * [Lectures](http://www.cs.cornell.edu/courses/CS5430/2013sp/02.outline.html)
   * [Assignments](http://www.cs.cornell.edu/courses/CS5430/2013sp/)
 * [EECS 588](https://www.eecs.umich.edu/courses/eecs588/) **Computer & Network Security** *University of Michigan* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  * [Lectures Notes](https://github.com/RPISEC/Malware/tree/master/Lectures) ⭐ 4,053 | 🐛 1 | 📅 2022-08-26
-  * [Labs](https://github.com/RPISEC/Malware/tree/master/Labs) ⭐ 4,053 | 🐛 1 | 📅 2022-08-26
-  * [Projects](https://github.com/RPISEC/Malware/tree/master/Projects) ⭐ 4,053 | 🐛 1 | 📅 2022-08-26
+  * [Lectures Notes](https://github.com/RPISEC/Malware/tree/master/Lectures) ⭐ 4,054 | 🐛 1 | 📅 2022-08-26
+  * [Labs](https://github.com/RPISEC/Malware/tree/master/Labs) ⭐ 4,054 | 🐛 1 | 📅 2022-08-26
+  * [Projects](https://github.com/RPISEC/Malware/tree/master/Projects) ⭐ 4,054 | 🐛 1 | 📅 2022-08-26
   * Taught by [J. Alex Halderman](https://jhalderm.com/) who has analyzed the security of Electronic Voting Machines in the [US](https://jhalderm.com/pub/papers/dcvoting-fc12.pdf) and [over](https://jhalderm.com/pub/papers/ivoting-ccs14.pdf) [seas](https://jhalderm.com/pub/papers/evm-ccs10.pdf).
   * This intensive research seminar covers foundational work and current topics in computer systems security.
   * [Readings](https://www.eecs.umich.edu/courses/eecs588/readings.html)
@@ -835,9 +835,9 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * This course provides a comprehensive introduction to computer graphics. Focuses on fundamental concepts and techniques, and their cross-cutting relationship to multiple problem domains in graphics (rendering, animation, geometry, imaging). Topics include: sampling, aliasing, interpolation, rasterization, geometric transformations, parameterization, visibility, compositing, filtering, convolution, curves & surfaces, geometric data structures, subdivision, meshing, spatial hierarchies, ray tracing, radiometry, reflectance, light fields, geometric optics, Monte Carlo rendering, importance sampling, camera models, high-performance ray tracing, differential equations, time integration, numerical differentiation, physically-based animation, optimization, numerical linear algebra, inverse kinematics, Fourier methods, data fitting, example-based synthesis.
   * [Lectures and Readings](http://15462.courses.cs.cmu.edu/fall2015/reading)
   * [Assignments and Quizes](http://15462.courses.cs.cmu.edu/fall2015/exercises)
-* [CS 378](https://github.com/ut-cs378-vision-2014fall/course-info) ⭐ 76 | 🐛 0 | 📅 2015-02-17 **3D Reconstruction with Computer Vision** *UTexas* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+* [CS 378](https://github.com/ut-cs378-vision-2014fall/course-info) ⭐ 75 | 🐛 0 | 📅 2015-02-17 **3D Reconstruction with Computer Vision** *UTexas* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
   * In this lab-based class, we'll dive into practical applications of 3D reconstruction, combining hardware and software to build our own 3D environments from scratch. We'll use open-source frameworks like OpenCV to do the heavy lifting, with the focus on understanding and applying state-of-the art approaches to geometric computer vision
-  * [Lectures](https://github.com/ut-cs378-vision-2014fall/course-info/tree/master/meeting-notes) ⭐ 76 | 🐛 0 | 📅 2015-02-17
+  * [Lectures](https://github.com/ut-cs378-vision-2014fall/course-info/tree/master/meeting-notes) ⭐ 75 | 🐛 0 | 📅 2015-02-17
 * [CS 4620](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#) **Introduction to Computer Graphics** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
   * The study of creating, manipulating, and using visual images in the computer.
   * [Assignments](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#asgn)
@@ -1034,4 +1034,4 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
