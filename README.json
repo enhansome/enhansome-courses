@@ -152,6 +152,35 @@
         {
           "children": [
             {
+              "node_type": "group",
+              "title": "6.001",
+              "description": "Structure and Interpretation of Computer Programs MIT",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Textbook",
+                  "description": "(epub, pdf)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15810261,
+                    "language": "HTML",
+                    "last_commit": "2023-04-14T15:06:44Z",
+                    "owner": "sarabander",
+                    "repo": "sicp",
+                    "stars": 4523
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Introduction to CS"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "Practical_RL",
               "description": "Reinforcement Learning in the Wild Yandex SDA",
@@ -399,6 +428,44 @@
           "children": [
             {
               "node_type": "item",
+              "title": "CS 378",
+              "description": "3D Reconstruction with Computer Vision UTexas",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Lectures",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22788181,
+                    "language": null,
+                    "last_commit": "2015-02-17T18:45:40Z",
+                    "owner": "ut-cs378-vision-2014fall",
+                    "repo": "course-info",
+                    "stars": 75
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 22788181,
+                "language": null,
+                "last_commit": "2015-02-17T18:45:40Z",
+                "owner": "ut-cs378-vision-2014fall",
+                "repo": "course-info",
+                "stars": 75
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Computer Graphics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "CS 100",
               "description": "Open Source Software Construction UC Riverside",
               "children": [
@@ -475,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:26:07.313Z",
+    "last_updated": "2026-08-24T13:48:32.651Z",
     "original_repository": "prakhar1989/awesome-courses",
     "original_repository_id": 26689598,
     "original_repository_sha": "e0b02ce4084c3b426304ae03ffcb072f7c8057f3",
