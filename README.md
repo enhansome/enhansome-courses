@@ -67,7 +67,7 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * [Lecture Notes](https://sites.google.com/site/cs186fall2013/section-notes)
   * [Projects](https://sites.google.com/site/cs186fall2013/homeworks)
 * [CS 241](https://courses.engr.illinois.edu/cs241/sp2016/index.html) **Systems Programming (Spring 2016)** *Univ of Illinois, Urbana-Champaign* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-  * [Crowd Sourced Book](https://github.com/angrave/SystemProgramming/wiki) ⭐ 5,751 | 🐛 0 | 📅 2020-01-14
+  * [Crowd Sourced Book](https://github.com/angrave/SystemProgramming/wiki) ⭐ 5,753 | 🐛 0 | 📅 2020-01-14
   * System programming refers to writing code that tasks advantage of operating system support for programmers. This course is designed to introduce you to system programming. By the end of this course, you should be proficient at writing programs that take full advantage of operating system support. To be concrete, we need to fix an operating system and we need to choose a programming language for writing programs. We chose the C language running on a Linux/UNIX operating system (which implements the POSIX standard interface between the programmer and the OS).
   * [Assignments](https://courses.engr.illinois.edu/cs241/sp2016/mps.html)
   * [Labs](https://courses.engr.illinois.edu/cs241/sp2016/labs.html)
@@ -607,8 +607,8 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ### Machine Learning
 
-* [Practical\_RL](https://github.com/yandexdataschool/Practical_RL) ⭐ 6,559 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31 **Reinforcement Learning in the Wild** *Yandex SDA* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  * [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus) ⭐ 6,559 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31
+* [Practical\_RL](https://github.com/yandexdataschool/Practical_RL) ⭐ 6,560 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31 **Reinforcement Learning in the Wild** *Yandex SDA* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+  * [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus) ⭐ 6,560 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31
   * A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (russian) and maintained to be friendly to online students (both english and russian).
 * [DEEPNLP](https://github.com/oxford-cs-deepnlp-2017/) **Deep Learning for Natural Language Processing** *University of Oxford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
   * [Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) ⭐ 15,853 | 🐛 12 | 📅 2023-07-02
@@ -694,7 +694,7 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * [Assignments](http://stanford.edu/class/ee103/homework.html)
   * [Code](http://stanford.edu/class/ee103/julia_files)
 * [Fast.ai Introduction to Machine Learning for Coders](http://course.fast.ai/ml.html) *Fast.ai / University of San Francisco* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  * [Jupyter Notebooks](https://github.com/fastai/fastai/tree/master/courses/ml1) ⭐ 28,120 | 🐛 267 | 🌐 Jupyter Notebook | 📅 2026-08-15
+  * [Jupyter Notebooks](https://github.com/fastai/fastai/tree/master/courses/ml1) ⭐ 28,121 | 🐛 267 | 🌐 Jupyter Notebook | 📅 2026-08-15
   * There are around 24 hours of lessons, and you should plan to spend around 8 hours a week for 12 weeks to complete the material. The course is based on lessons recorded at the University of San Francisco for the Masters of Science in Data Science program. We assume that you have at least one year of coding experience, and either remember what you learned in high school math, or are prepared to do some independent study to refresh your knowledge.
   * [Lecture Videos](http://course.fast.ai/lessonsml1/lessonsml1.html)
   * [Lecture Notes](https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-1-84a1dc2b5236)
@@ -1034,4 +1034,4 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
