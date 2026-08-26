@@ -22,7 +22,7 @@
                     "last_commit": "2020-01-14T21:41:49Z",
                     "owner": "angrave",
                     "repo": "SystemProgramming",
-                    "stars": 5753
+                    "stars": 5752
                   }
                 }
               ]
@@ -139,7 +139,7 @@
                     "last_commit": "2020-12-24T01:43:34Z",
                     "owner": "jaehyunp",
                     "repo": "stanfordacm",
-                    "stars": 1664
+                    "stars": 1665
                   }
                 }
               ]
@@ -197,7 +197,7 @@
                     "last_commit": "2026-03-31T20:00:24Z",
                     "owner": "yandexdataschool",
                     "repo": "Practical_RL",
-                    "stars": 6560
+                    "stars": 6564
                   }
                 }
               ],
@@ -208,7 +208,7 @@
                 "last_commit": "2026-03-31T20:00:24Z",
                 "owner": "yandexdataschool",
                 "repo": "Practical_RL",
-                "stars": 6560
+                "stars": 6564
               }
             },
             {
@@ -250,7 +250,7 @@
                     "last_commit": "2020-12-22T09:21:55Z",
                     "owner": "chiphuyen",
                     "repo": "stanford-tensorflow-tutorials",
-                    "stars": 10370
+                    "stars": 10371
                   }
                 }
               ]
@@ -272,7 +272,7 @@
                     "last_commit": "2026-08-15T09:18:08Z",
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28123
+                    "stars": 28125
                   }
                 }
               ]
@@ -294,7 +294,7 @@
                     "last_commit": "2025-03-31T20:16:24Z",
                     "owner": "torch",
                     "repo": "torch7",
-                    "stars": 9142
+                    "stars": 9141
                   }
                 }
               ]
@@ -323,7 +323,7 @@
                     "last_commit": "2021-12-09T17:20:50Z",
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6032
+                    "stars": 6033
                   }
                 },
                 {
@@ -338,7 +338,7 @@
                     "last_commit": "2021-12-09T17:20:50Z",
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6032
+                    "stars": 6033
                   }
                 }
               ],
@@ -349,7 +349,7 @@
                 "last_commit": "2021-12-09T17:20:50Z",
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6032
+                "stars": 6033
               }
             },
             {
@@ -364,7 +364,7 @@
                 "last_commit": "2022-08-26T22:56:18Z",
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4056
+                "stars": 4058
               }
             },
             {
@@ -384,7 +384,7 @@
                     "last_commit": "2022-08-26T22:56:18Z",
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4056
+                    "stars": 4058
                   }
                 },
                 {
@@ -399,7 +399,7 @@
                     "last_commit": "2022-08-26T22:56:18Z",
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4056
+                    "stars": 4058
                   }
                 },
                 {
@@ -414,7 +414,7 @@
                     "last_commit": "2022-08-26T22:56:18Z",
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4056
+                    "stars": 4058
                   }
                 }
               ]
@@ -481,7 +481,7 @@
                     "last_commit": "2019-04-04T20:44:35Z",
                     "owner": "mikeizbicki",
                     "repo": "ucr-cs100",
-                    "stars": 508
+                    "stars": 509
                   }
                 },
                 {
@@ -496,7 +496,7 @@
                     "last_commit": "2019-04-04T20:44:35Z",
                     "owner": "mikeizbicki",
                     "repo": "ucr-cs100",
-                    "stars": 508
+                    "stars": 509
                   }
                 }
               ],
@@ -507,7 +507,7 @@
                 "last_commit": "2019-04-04T20:44:35Z",
                 "owner": "mikeizbicki",
                 "repo": "ucr-cs100",
-                "stars": 508
+                "stars": 509
               }
             },
             {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:17:07.719Z",
+    "last_updated": "2026-08-26T13:29:07.983Z",
     "original_repository": "prakhar1989/awesome-courses",
     "original_repository_id": 26689598,
     "original_repository_sha": "e0b02ce4084c3b426304ae03ffcb072f7c8057f3",
