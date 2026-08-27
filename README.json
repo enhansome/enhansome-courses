@@ -272,7 +272,7 @@
                     "last_commit": "2026-08-15T09:18:08Z",
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28125
+                    "stars": 28126
                   }
                 }
               ]
@@ -364,7 +364,7 @@
                 "last_commit": "2022-08-26T22:56:18Z",
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4058
+                "stars": 4059
               }
             },
             {
@@ -384,7 +384,7 @@
                     "last_commit": "2022-08-26T22:56:18Z",
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4058
+                    "stars": 4059
                   }
                 },
                 {
@@ -399,7 +399,7 @@
                     "last_commit": "2022-08-26T22:56:18Z",
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4058
+                    "stars": 4059
                   }
                 },
                 {
@@ -414,7 +414,7 @@
                     "last_commit": "2022-08-26T22:56:18Z",
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4058
+                    "stars": 4059
                   }
                 }
               ]
@@ -542,9 +542,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:29:07.983Z",
-    "original_repository": "prakhar1989/awesome-courses",
-    "original_repository_id": 26689598,
+    "last_updated": "2026-08-27T11:33:01.331Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 26689598,
+      "language": null,
+      "last_commit": "2023-05-04T12:49:34Z",
+      "owner": "prakhar1989",
+      "repo": "awesome-courses",
+      "stars": 70691
+    },
     "original_repository_sha": "e0b02ce4084c3b426304ae03ffcb072f7c8057f3",
     "enhanced_repository": "enhansome/enhansome-courses",
     "enhanced_repository_description": null,
