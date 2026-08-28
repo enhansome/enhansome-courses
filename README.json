@@ -23,7 +23,8 @@
                     "owner": "angrave",
                     "repo": "SystemProgramming",
                     "stars": 5753
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ]
             },
@@ -45,7 +46,8 @@
                     "owner": "patricklam",
                     "repo": "p4p-2015",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ]
             }
@@ -74,7 +76,8 @@
                     "owner": "compilers-course-materials",
                     "repo": "cs75-s16-lectures",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ]
             },
@@ -96,7 +99,8 @@
                     "owner": "cis198-2016s",
                     "repo": "homework",
                     "stars": 201
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ]
             }
@@ -120,7 +124,8 @@
                 "owner": "aaronbloomfield",
                 "repo": "pdr",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T22:28:50.744Z"
             },
             {
               "node_type": "group",
@@ -140,7 +145,8 @@
                     "owner": "jaehyunp",
                     "repo": "stanfordacm",
                     "stars": 1665
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ]
             }
@@ -169,7 +175,8 @@
                     "owner": "sarabander",
                     "repo": "sicp",
                     "stars": 4523
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ]
             }
@@ -198,7 +205,8 @@
                     "owner": "yandexdataschool",
                     "repo": "Practical_RL",
                     "stars": 6565
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ],
               "repo_info": {
@@ -209,7 +217,8 @@
                 "owner": "yandexdataschool",
                 "repo": "Practical_RL",
                 "stars": 6565
-              }
+              },
+              "first_seen": "2026-08-28T22:28:50.744Z"
             },
             {
               "node_type": "group",
@@ -229,7 +238,8 @@
                     "owner": "oxford-cs-deepnlp-2017",
                     "repo": "lectures",
                     "stars": 15853
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ]
             },
@@ -251,7 +261,8 @@
                     "owner": "chiphuyen",
                     "repo": "stanford-tensorflow-tutorials",
                     "stars": 10370
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ]
             },
@@ -272,8 +283,9 @@
                     "last_commit": "2026-08-15T09:18:08Z",
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28127
-                  }
+                    "stars": 28128
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ]
             },
@@ -295,7 +307,8 @@
                     "owner": "torch",
                     "repo": "torch7",
                     "stars": 9141
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ]
             }
@@ -323,8 +336,9 @@
                     "last_commit": "2021-12-09T17:20:50Z",
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6036
-                  }
+                    "stars": 6037
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 },
                 {
                   "node_type": "item",
@@ -338,8 +352,9 @@
                     "last_commit": "2021-12-09T17:20:50Z",
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6036
-                  }
+                    "stars": 6037
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ],
               "repo_info": {
@@ -349,8 +364,9 @@
                 "last_commit": "2021-12-09T17:20:50Z",
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6036
-              }
+                "stars": 6037
+              },
+              "first_seen": "2026-08-28T22:28:50.744Z"
             },
             {
               "node_type": "item",
@@ -365,7 +381,8 @@
                 "owner": "RPISEC",
                 "repo": "Malware",
                 "stars": 4063
-              }
+              },
+              "first_seen": "2026-08-28T22:28:50.744Z"
             },
             {
               "node_type": "group",
@@ -385,7 +402,8 @@
                     "owner": "RPISEC",
                     "repo": "Malware",
                     "stars": 4063
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 },
                 {
                   "node_type": "item",
@@ -400,7 +418,8 @@
                     "owner": "RPISEC",
                     "repo": "Malware",
                     "stars": 4063
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 },
                 {
                   "node_type": "item",
@@ -415,7 +434,8 @@
                     "owner": "RPISEC",
                     "repo": "Malware",
                     "stars": 4063
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ]
             }
@@ -444,7 +464,8 @@
                     "owner": "ut-cs378-vision-2014fall",
                     "repo": "course-info",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ],
               "repo_info": {
@@ -455,7 +476,8 @@
                 "owner": "ut-cs378-vision-2014fall",
                 "repo": "course-info",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T22:28:50.744Z"
             }
           ],
           "description": null,
@@ -482,7 +504,8 @@
                     "owner": "mikeizbicki",
                     "repo": "ucr-cs100",
                     "stars": 509
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 },
                 {
                   "node_type": "item",
@@ -497,7 +520,8 @@
                     "owner": "mikeizbicki",
                     "repo": "ucr-cs100",
                     "stars": 509
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ],
               "repo_info": {
@@ -508,7 +532,8 @@
                 "owner": "mikeizbicki",
                 "repo": "ucr-cs100",
                 "stars": 509
-              }
+              },
+              "first_seen": "2026-08-28T22:28:50.744Z"
             },
             {
               "node_type": "group",
@@ -528,7 +553,8 @@
                     "owner": "luong-komorebi",
                     "repo": "CS193A",
                     "stars": 119
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ]
             }
@@ -542,7 +568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:25:53.434Z",
+    "last_updated": "2026-08-28T22:28:50.744Z",
     "original_repository_info": {
       "archived": false,
       "id": 26689598,
@@ -550,7 +576,7 @@
       "last_commit": "2023-05-04T12:49:34Z",
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 70701
+      "stars": 70722
     },
     "original_repository_sha": "e0b02ce4084c3b426304ae03ffcb072f7c8057f3",
     "enhanced_repository": "enhansome/enhansome-courses",
