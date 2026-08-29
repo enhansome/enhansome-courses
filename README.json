@@ -243,7 +243,7 @@
                     "open_issues": 43,
                     "owner": "yandexdataschool",
                     "repo": "Practical_RL",
-                    "stars": 6565,
+                    "stars": 6566,
                     "topics": [
                       "course-materials",
                       "deep-learning",
@@ -272,7 +272,7 @@
                 "open_issues": 43,
                 "owner": "yandexdataschool",
                 "repo": "Practical_RL",
-                "stars": 6565,
+                "stars": 6566,
                 "topics": [
                   "course-materials",
                   "deep-learning",
@@ -383,7 +383,7 @@
                     "open_issues": 268,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28128,
+                    "stars": 28127,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:10:06.081Z",
+    "last_updated": "2026-08-29T16:47:55.087Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 65,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 70729,
+      "stars": 70745,
       "topics": [
         "awesome",
         "awesome-list",
