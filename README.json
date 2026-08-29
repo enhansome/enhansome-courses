@@ -17,12 +17,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Angrave's Crowd-Sourced System Programming Book used at UIUC",
+                    "homepage": "https://github.com/angrave/SystemProgramming/wiki",
                     "id": 23123294,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-01-14T21:41:49Z",
+                    "open_issues": 0,
                     "owner": "angrave",
                     "repo": "SystemProgramming",
-                    "stars": 5753
+                    "stars": 5753,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
@@ -40,12 +45,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ECE 459: Programming for Performance, Winter 2015",
+                    "homepage": null,
                     "id": 28795340,
                     "language": "TeX",
+                    "license": null,
                     "last_commit": "2015-04-10T03:50:13Z",
+                    "open_issues": 0,
                     "owner": "patricklam",
                     "repo": "p4p-2015",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
@@ -70,12 +80,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 50937032,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2016-04-19T19:41:57Z",
+                    "open_issues": 0,
                     "owner": "compilers-course-materials",
                     "repo": "cs75-s16-lectures",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
@@ -93,12 +108,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 49552221,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2023-02-24T16:01:42Z",
+                    "open_issues": 0,
                     "owner": "cis198-2016s",
                     "repo": "homework",
-                    "stars": 201
+                    "stars": 201,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
@@ -118,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repo for a Program and Data Representation university-level course",
+                "homepage": null,
                 "id": 15493258,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-25T12:53:18Z",
+                "open_issues": 0,
                 "owner": "aaronbloomfield",
                 "repo": "pdr",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:50.744Z"
             },
@@ -139,12 +164,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stanford ACM-ICPC related materials",
+                    "homepage": null,
                     "id": 21017766,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2020-12-24T01:43:34Z",
+                    "open_issues": 0,
                     "owner": "jaehyunp",
                     "repo": "stanfordacm",
-                    "stars": 1665
+                    "stars": 1665,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
@@ -169,12 +199,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HTML5/EPUB3 version of SICP",
+                    "homepage": "http://sarabander.github.io/sicp/",
                     "id": 15810261,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-04-14T15:06:44Z",
+                    "open_issues": 24,
                     "owner": "sarabander",
                     "repo": "sicp",
-                    "stars": 4523
+                    "stars": 4523,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
@@ -199,24 +234,58 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A course in reinforcement learning in the wild",
+                    "homepage": null,
                     "id": 79821807,
                     "language": "Jupyter Notebook",
+                    "license": "Unlicense",
                     "last_commit": "2026-03-31T20:00:24Z",
+                    "open_issues": 43,
                     "owner": "yandexdataschool",
                     "repo": "Practical_RL",
-                    "stars": 6565
+                    "stars": 6565,
+                    "topics": [
+                      "course-materials",
+                      "deep-learning",
+                      "deep-reinforcement-learning",
+                      "git-course",
+                      "hacktoberfest",
+                      "keras",
+                      "mooc",
+                      "pytorch",
+                      "pytorch-tutorials",
+                      "reinforcement-learning",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A course in reinforcement learning in the wild",
+                "homepage": null,
                 "id": 79821807,
                 "language": "Jupyter Notebook",
+                "license": "Unlicense",
                 "last_commit": "2026-03-31T20:00:24Z",
+                "open_issues": 43,
                 "owner": "yandexdataschool",
                 "repo": "Practical_RL",
-                "stars": 6565
+                "stars": 6565,
+                "topics": [
+                  "course-materials",
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "git-course",
+                  "hacktoberfest",
+                  "keras",
+                  "mooc",
+                  "pytorch",
+                  "pytorch-tutorials",
+                  "reinforcement-learning",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T22:28:50.744Z"
             },
@@ -232,12 +301,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " Oxford Deep NLP 2017 course",
+                    "homepage": null,
                     "id": 81080671,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-07-02T22:46:23Z",
+                    "open_issues": 12,
                     "owner": "oxford-cs-deepnlp-2017",
                     "repo": "lectures",
-                    "stars": 15853
+                    "stars": 15853,
+                    "topics": [
+                      "deep-learning",
+                      "machine-learning",
+                      "natural-language-processing",
+                      "nlp",
+                      "oxford"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
@@ -255,12 +335,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. ",
+                    "homepage": "http://cs20.stanford.edu",
                     "id": 72945141,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-12-22T09:21:55Z",
+                    "open_issues": 85,
                     "owner": "chiphuyen",
                     "repo": "stanford-tensorflow-tutorials",
-                    "stars": 10370
+                    "stars": 10370,
+                    "topics": [
+                      "chatbot",
+                      "course-materials",
+                      "deep-learning",
+                      "machine-learning",
+                      "natural-language-processing",
+                      "nlp",
+                      "python",
+                      "stanford",
+                      "tensorflow",
+                      "tutorial"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
@@ -278,12 +374,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The fastai deep learning library",
+                    "homepage": "http://docs.fast.ai",
                     "id": 102973646,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-15T09:18:08Z",
+                    "open_issues": 268,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28128
+                    "stars": 28128,
+                    "topics": [
+                      "colab",
+                      "deep-learning",
+                      "fastai",
+                      "gpu",
+                      "machine-learning",
+                      "notebooks",
+                      "python",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
@@ -301,12 +411,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "http://torch.ch",
+                    "homepage": null,
                     "id": 13677187,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-03-31T20:16:24Z",
+                    "open_issues": 298,
                     "owner": "torch",
                     "repo": "torch7",
-                    "stars": 9141
+                    "stars": 9141,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
@@ -331,12 +446,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Course materials for Modern Binary Exploitation by RPISEC",
+                    "homepage": null,
                     "id": 37784277,
                     "language": "C",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2021-12-09T17:20:50Z",
+                    "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6037
+                    "stars": 6038,
+                    "topics": [
+                      "ctf",
+                      "exploitation",
+                      "wargame"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 },
@@ -347,24 +471,42 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Course materials for Modern Binary Exploitation by RPISEC",
+                    "homepage": null,
                     "id": 37784277,
                     "language": "C",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2021-12-09T17:20:50Z",
+                    "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6037
+                    "stars": 6038,
+                    "topics": [
+                      "ctf",
+                      "exploitation",
+                      "wargame"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Course materials for Modern Binary Exploitation by RPISEC",
+                "homepage": null,
                 "id": 37784277,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-12-09T17:20:50Z",
+                "open_issues": 11,
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6037
+                "stars": 6038,
+                "topics": [
+                  "ctf",
+                  "exploitation",
+                  "wargame"
+                ]
               },
               "first_seen": "2026-08-28T22:28:50.744Z"
             },
@@ -375,12 +517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Course materials for Malware Analysis by RPISEC",
+                "homepage": null,
                 "id": 49282041,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-08-26T22:56:18Z",
+                "open_issues": 1,
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4063
+                "stars": 4063,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:50.744Z"
             },
@@ -396,12 +543,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Course materials for Malware Analysis by RPISEC",
+                    "homepage": null,
                     "id": 49282041,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-08-26T22:56:18Z",
+                    "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4063
+                    "stars": 4063,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 },
@@ -412,12 +564,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Course materials for Malware Analysis by RPISEC",
+                    "homepage": null,
                     "id": 49282041,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-08-26T22:56:18Z",
+                    "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4063
+                    "stars": 4063,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 },
@@ -428,12 +585,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Course materials for Malware Analysis by RPISEC",
+                    "homepage": null,
                     "id": 49282041,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-08-26T22:56:18Z",
+                    "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4063
+                    "stars": 4063,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
@@ -458,24 +620,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Syllabus and other general course information",
+                    "homepage": null,
                     "id": 22788181,
                     "language": null,
+                    "license": null,
                     "last_commit": "2015-02-17T18:45:40Z",
+                    "open_issues": 0,
                     "owner": "ut-cs378-vision-2014fall",
                     "repo": "course-info",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Syllabus and other general course information",
+                "homepage": null,
                 "id": 22788181,
                 "language": null,
+                "license": null,
                 "last_commit": "2015-02-17T18:45:40Z",
+                "open_issues": 0,
                 "owner": "ut-cs378-vision-2014fall",
                 "repo": "course-info",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:50.744Z"
             }
@@ -498,12 +670,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "open source software construction course",
+                    "homepage": null,
                     "id": 21252548,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-04-04T20:44:35Z",
+                    "open_issues": 3,
                     "owner": "mikeizbicki",
                     "repo": "ucr-cs100",
-                    "stars": 509
+                    "stars": 509,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 },
@@ -514,24 +691,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "open source software construction course",
+                    "homepage": null,
                     "id": 21252548,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-04-04T20:44:35Z",
+                    "open_issues": 3,
                     "owner": "mikeizbicki",
                     "repo": "ucr-cs100",
-                    "stars": 509
+                    "stars": 509,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "open source software construction course",
+                "homepage": null,
                 "id": 21252548,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-04-04T20:44:35Z",
+                "open_issues": 3,
                 "owner": "mikeizbicki",
                 "repo": "ucr-cs100",
-                "stars": 509
+                "stars": 509,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:50.744Z"
             },
@@ -547,12 +734,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Standford CS193A Android-App-Development material.",
+                    "homepage": "http://web.stanford.edu/class/cs193a/lectures.shtml",
                     "id": 59814966,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2018-03-02T01:08:08Z",
+                    "open_issues": 0,
                     "owner": "luong-komorebi",
                     "repo": "CS193A",
-                    "stars": 119
+                    "stars": 119,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
                 }
@@ -568,15 +760,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:28:50.744Z",
+    "last_updated": "2026-08-29T04:10:06.081Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":books: List of awesome university courses for learning Computer Science!",
+      "homepage": null,
       "id": 26689598,
       "language": null,
+      "license": null,
       "last_commit": "2023-05-04T12:49:34Z",
+      "open_issues": 65,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 70722
+      "stars": 70729,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "computer-science",
+        "courses"
+      ]
     },
     "original_repository_sha": "e0b02ce4084c3b426304ae03ffcb072f7c8057f3",
     "enhanced_repository": "enhansome/enhansome-courses",
