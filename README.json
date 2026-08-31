@@ -383,7 +383,7 @@
                     "open_issues": 268,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28128,
+                    "stars": 28129,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -455,7 +455,7 @@
                     "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6038,
+                    "stars": 6040,
                     "topics": [
                       "ctf",
                       "exploitation",
@@ -480,7 +480,7 @@
                     "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6038,
+                    "stars": 6040,
                     "topics": [
                       "ctf",
                       "exploitation",
@@ -501,7 +501,7 @@
                 "open_issues": 11,
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6038,
+                "stars": 6040,
                 "topics": [
                   "ctf",
                   "exploitation",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T16:49:00.551Z",
+    "last_updated": "2026-08-31T19:09:40.797Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 65,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 70774,
+      "stars": 70798,
       "topics": [
         "awesome",
         "awesome-list",
