@@ -208,7 +208,7 @@
                     "open_issues": 24,
                     "owner": "sarabander",
                     "repo": "sicp",
-                    "stars": 4524,
+                    "stars": 4525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -383,7 +383,7 @@
                     "open_issues": 268,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28128,
+                    "stars": 28130,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T16:45:46.176Z",
+    "last_updated": "2026-09-02T16:41:45.721Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 65,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 70813,
+      "stars": 70834,
       "topics": [
         "awesome",
         "awesome-list",
