@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "angrave",
                     "repo": "SystemProgramming",
-                    "stars": 5752,
+                    "stars": 5753,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -344,7 +344,7 @@
                     "open_issues": 85,
                     "owner": "chiphuyen",
                     "repo": "stanford-tensorflow-tutorials",
-                    "stars": 10370,
+                    "stars": 10369,
                     "topics": [
                       "chatbot",
                       "course-materials",
@@ -379,11 +379,11 @@
                     "id": 102973646,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T17:17:01Z",
+                    "last_commit": "2026-09-03T01:14:37Z",
                     "open_issues": 268,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28130,
+                    "stars": 28131,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T16:41:45.721Z",
+    "last_updated": "2026-09-03T16:33:09.507Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 65,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 70834,
+      "stars": 70859,
       "topics": [
         "awesome",
         "awesome-list",
