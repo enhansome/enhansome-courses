@@ -694,7 +694,7 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * [Assignments](http://stanford.edu/class/ee103/homework.html)
   * [Code](http://stanford.edu/class/ee103/julia_files)
 * [Fast.ai Introduction to Machine Learning for Coders](http://course.fast.ai/ml.html) *Fast.ai / University of San Francisco* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  * [Jupyter Notebooks](https://github.com/fastai/fastai/tree/master/courses/ml1) ⭐ 28,131 | 🐛 268 | 🌐 Jupyter Notebook | 📅 2026-09-03
+  * [Jupyter Notebooks](https://github.com/fastai/fastai/tree/master/courses/ml1) ⭐ 28,132 | 🐛 268 | 🌐 Jupyter Notebook | 📅 2026-09-03
   * There are around 24 hours of lessons, and you should plan to spend around 8 hours a week for 12 weeks to complete the material. The course is based on lessons recorded at the University of San Francisco for the Masters of Science in Data Science program. We assume that you have at least one year of coding experience, and either remember what you learned in high school math, or are prepared to do some independent study to refresh your knowledge.
   * [Lecture Videos](http://course.fast.ai/lessonsml1/lessonsml1.html)
   * [Lecture Notes](https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-1-84a1dc2b5236)
@@ -703,7 +703,7 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * [Lecture Videos](http://www.ischool.berkeley.edu/newsandevents/audiovideo/webcast/21963)
   * [Previous Years coursepage](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
 * [Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) *University of Oxford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
-  * The course focusses on neural networks and uses the [Torch](https://github.com/torch/torch7/wiki/Cheatsheet) ⭐ 9,141 | 🐛 298 | 🌐 C | 📅 2025-03-31 deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
+  * The course focusses on neural networks and uses the [Torch](https://github.com/torch/torch7/wiki/Cheatsheet) ⭐ 9,141 | 🐛 299 | 🌐 C | 📅 2025-03-31 deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
   * [Lectures and Assignments](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
   * [Source code](https://github.com/oxford-cs-ml-2015/)
 * [StatLearning](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) **Intro to Statistical Learning** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
@@ -742,9 +742,9 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ### Security
 
-* [CSCI 4968](https://github.com/RPISEC/MBE) ⭐ 6,041 | 🐛 11 | 🌐 C | 📅 2021-12-09 **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
-  * [Labs](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,041 | 🐛 11 | 🌐 C | 📅 2021-12-09
-  * [Projects](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,041 | 🐛 11 | 🌐 C | 📅 2021-12-09
+* [CSCI 4968](https://github.com/RPISEC/MBE) ⭐ 6,040 | 🐛 11 | 🌐 C | 📅 2021-12-09 **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+  * [Labs](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,040 | 🐛 11 | 🌐 C | 📅 2021-12-09
+  * [Projects](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,040 | 🐛 11 | 🌐 C | 📅 2021-12-09
   * This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
     teach Modern Binary Exploitation at [Rensselaer Polytechnic Institute](http://rpi.edu) in
     Spring 2015. This was a university course developed and run solely by students to teach
@@ -1034,4 +1034,4 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
