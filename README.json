@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "angrave",
                     "repo": "SystemProgramming",
-                    "stars": 5753,
+                    "stars": 5755,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -208,7 +208,7 @@
                     "open_issues": 24,
                     "owner": "sarabander",
                     "repo": "sicp",
-                    "stars": 4526,
+                    "stars": 4527,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -243,7 +243,7 @@
                     "open_issues": 43,
                     "owner": "yandexdataschool",
                     "repo": "Practical_RL",
-                    "stars": 6569,
+                    "stars": 6570,
                     "topics": [
                       "course-materials",
                       "deep-learning",
@@ -272,7 +272,7 @@
                 "open_issues": 43,
                 "owner": "yandexdataschool",
                 "repo": "Practical_RL",
-                "stars": 6569,
+                "stars": 6570,
                 "topics": [
                   "course-materials",
                   "deep-learning",
@@ -310,7 +310,7 @@
                     "open_issues": 12,
                     "owner": "oxford-cs-deepnlp-2017",
                     "repo": "lectures",
-                    "stars": 15851,
+                    "stars": 15852,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -344,7 +344,7 @@
                     "open_issues": 85,
                     "owner": "chiphuyen",
                     "repo": "stanford-tensorflow-tutorials",
-                    "stars": 10369,
+                    "stars": 10370,
                     "topics": [
                       "chatbot",
                       "course-materials",
@@ -379,11 +379,11 @@
                     "id": 102973646,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-07T01:49:11Z",
+                    "last_commit": "2026-09-09T05:54:29Z",
                     "open_issues": 267,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28132,
+                    "stars": 28133,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -455,7 +455,7 @@
                     "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6043,
+                    "stars": 6044,
                     "topics": [
                       "ctf",
                       "exploitation",
@@ -480,7 +480,7 @@
                     "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6043,
+                    "stars": 6044,
                     "topics": [
                       "ctf",
                       "exploitation",
@@ -501,7 +501,7 @@
                 "open_issues": 11,
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6043,
+                "stars": 6044,
                 "topics": [
                   "ctf",
                   "exploitation",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T16:44:10.946Z",
+    "last_updated": "2026-09-09T16:45:52.351Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 64,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 70976,
+      "stars": 70999,
       "topics": [
         "awesome",
         "awesome-list",
