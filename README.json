@@ -208,7 +208,7 @@
                     "open_issues": 24,
                     "owner": "sarabander",
                     "repo": "sicp",
-                    "stars": 4529,
+                    "stars": 4528,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -243,7 +243,7 @@
                     "open_issues": 43,
                     "owner": "yandexdataschool",
                     "repo": "Practical_RL",
-                    "stars": 6575,
+                    "stars": 6576,
                     "topics": [
                       "course-materials",
                       "deep-learning",
@@ -272,7 +272,7 @@
                 "open_issues": 43,
                 "owner": "yandexdataschool",
                 "repo": "Practical_RL",
-                "stars": 6575,
+                "stars": 6576,
                 "topics": [
                   "course-materials",
                   "deep-learning",
@@ -383,7 +383,7 @@
                     "open_issues": 270,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28163,
+                    "stars": 28175,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:09:04.219Z",
+    "last_updated": "2026-09-18T16:33:32.827Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 64,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 71216,
+      "stars": 71234,
       "topics": [
         "awesome",
         "awesome-list",
