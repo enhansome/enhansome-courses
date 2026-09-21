@@ -243,7 +243,7 @@
                     "open_issues": 43,
                     "owner": "yandexdataschool",
                     "repo": "Practical_RL",
-                    "stars": 6578,
+                    "stars": 6577,
                     "topics": [
                       "course-materials",
                       "deep-learning",
@@ -272,7 +272,7 @@
                 "open_issues": 43,
                 "owner": "yandexdataschool",
                 "repo": "Practical_RL",
-                "stars": 6578,
+                "stars": 6577,
                 "topics": [
                   "course-materials",
                   "deep-learning",
@@ -310,7 +310,7 @@
                     "open_issues": 12,
                     "owner": "oxford-cs-deepnlp-2017",
                     "repo": "lectures",
-                    "stars": 15854,
+                    "stars": 15855,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -379,11 +379,11 @@
                     "id": 102973646,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-14T09:35:01Z",
-                    "open_issues": 270,
+                    "last_commit": "2026-09-21T10:41:46Z",
+                    "open_issues": 271,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28182,
+                    "stars": 28184,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -420,7 +420,7 @@
                     "open_issues": 299,
                     "owner": "torch",
                     "repo": "torch7",
-                    "stars": 9140,
+                    "stars": 9141,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -526,7 +526,7 @@
                 "open_issues": 1,
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4070,
+                "stars": 4071,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:50.744Z"
@@ -552,7 +552,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4070,
+                    "stars": 4071,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -573,7 +573,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4070,
+                    "stars": 4071,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -594,7 +594,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4070,
+                    "stars": 4071,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T16:17:02.627Z",
+    "last_updated": "2026-09-21T18:14:11.927Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 64,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 71281,
+      "stars": 71312,
       "topics": [
         "awesome",
         "awesome-list",
