@@ -310,7 +310,7 @@
                     "open_issues": 12,
                     "owner": "oxford-cs-deepnlp-2017",
                     "repo": "lectures",
-                    "stars": 15855,
+                    "stars": 15856,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -383,7 +383,7 @@
                     "open_issues": 271,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28184,
+                    "stars": 28188,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:14:11.927Z",
+    "last_updated": "2026-09-22T17:04:07.882Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -769,10 +769,10 @@
       "language": null,
       "license": null,
       "last_commit": "2023-05-04T12:49:34Z",
-      "open_issues": 64,
+      "open_issues": 65,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 71312,
+      "stars": 71334,
       "topics": [
         "awesome",
         "awesome-list",
