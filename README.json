@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "angrave",
                     "repo": "SystemProgramming",
-                    "stars": 5756,
+                    "stars": 5761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -173,7 +173,7 @@
                     "open_issues": 0,
                     "owner": "jaehyunp",
                     "repo": "stanfordacm",
-                    "stars": 1664,
+                    "stars": 1665,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -344,7 +344,7 @@
                     "open_issues": 85,
                     "owner": "chiphuyen",
                     "repo": "stanford-tensorflow-tutorials",
-                    "stars": 10371,
+                    "stars": 10372,
                     "topics": [
                       "chatbot",
                       "course-materials",
@@ -383,7 +383,7 @@
                     "open_issues": 272,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28198,
+                    "stars": 28200,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -455,7 +455,7 @@
                     "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6051,
+                    "stars": 6052,
                     "topics": [
                       "ctf",
                       "exploitation",
@@ -480,7 +480,7 @@
                     "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6051,
+                    "stars": 6052,
                     "topics": [
                       "ctf",
                       "exploitation",
@@ -501,7 +501,7 @@
                 "open_issues": 11,
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6051,
+                "stars": 6052,
                 "topics": [
                   "ctf",
                   "exploitation",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:04:26.120Z",
+    "last_updated": "2026-09-28T19:43:27.733Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 65,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 71436,
+      "stars": 71461,
       "topics": [
         "awesome",
         "awesome-list",

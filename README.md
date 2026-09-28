@@ -67,7 +67,7 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * [Lecture Notes](https://sites.google.com/site/cs186fall2013/section-notes)
   * [Projects](https://sites.google.com/site/cs186fall2013/homeworks)
 * [CS 241](https://courses.engr.illinois.edu/cs241/sp2016/index.html) **Systems Programming (Spring 2016)** *Univ of Illinois, Urbana-Champaign* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-  * [Crowd Sourced Book](https://github.com/angrave/SystemProgramming/wiki) ⭐ 5,756 | 🐛 0 | 📅 2020-01-14
+  * [Crowd Sourced Book](https://github.com/angrave/SystemProgramming/wiki) ⭐ 5,761 | 🐛 0 | 📅 2020-01-14
   * System programming refers to writing code that tasks advantage of operating system support for programmers. This course is designed to introduce you to system programming. By the end of this course, you should be proficient at writing programs that take full advantage of operating system support. To be concrete, we need to fix an operating system and we need to choose a programming language for writing programs. We chose the C language running on a Linux/UNIX operating system (which implements the POSIX standard interface between the programmer and the OS).
   * [Assignments](https://courses.engr.illinois.edu/cs241/sp2016/mps.html)
   * [Labs](https://courses.engr.illinois.edu/cs241/sp2016/labs.html)
@@ -331,7 +331,7 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * [Labs](http://www.cs.berkeley.edu/~jrs/61b/lab/index.html) The link to labs and projects is included in the website.
   * [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iC2Khb1B5NnbE7SHPQ1-W17)
 * [CS 97SI](http://web.stanford.edu/class/cs97si/) **Introduction to Competitive Programming** *Stanford University*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-  * [Lectures and Assignments](https://github.com/jaehyunp/stanfordacm) ⭐ 1,664 | 🐛 0 | 🌐 HTML | 📅 2020-12-24
+  * [Lectures and Assignments](https://github.com/jaehyunp/stanfordacm) ⭐ 1,665 | 🐛 0 | 🌐 HTML | 📅 2020-12-24
   * Fantastic repository of theory and practice problems across various topics for students who are interested to participate in ACM-ICPC.
 * [CS 224](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) **Advanced Algorithms** *Harvard University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
   * CS 224 is an advanced course in algorithm design, and topics we will cover include the word RAM model, data structures, amortization, online algorithms, linear programming, semidefinite programming, approximation algorithms, hashing, randomized algorithms, fast exponential time algorithms, graph algorithms, and computational geometry.
@@ -694,7 +694,7 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * [Assignments](http://stanford.edu/class/ee103/homework.html)
   * [Code](http://stanford.edu/class/ee103/julia_files)
 * [Fast.ai Introduction to Machine Learning for Coders](http://course.fast.ai/ml.html) *Fast.ai / University of San Francisco* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  * [Jupyter Notebooks](https://github.com/fastai/fastai/tree/master/courses/ml1) ⭐ 28,198 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-09-21
+  * [Jupyter Notebooks](https://github.com/fastai/fastai/tree/master/courses/ml1) ⭐ 28,200 | 🐛 272 | 🌐 Jupyter Notebook | 📅 2026-09-21
   * There are around 24 hours of lessons, and you should plan to spend around 8 hours a week for 12 weeks to complete the material. The course is based on lessons recorded at the University of San Francisco for the Masters of Science in Data Science program. We assume that you have at least one year of coding experience, and either remember what you learned in high school math, or are prepared to do some independent study to refresh your knowledge.
   * [Lecture Videos](http://course.fast.ai/lessonsml1/lessonsml1.html)
   * [Lecture Notes](https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-1-84a1dc2b5236)
@@ -742,9 +742,9 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ### Security
 
-* [CSCI 4968](https://github.com/RPISEC/MBE) ⭐ 6,051 | 🐛 11 | 🌐 C | 📅 2021-12-09 **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
-  * [Labs](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,051 | 🐛 11 | 🌐 C | 📅 2021-12-09
-  * [Projects](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,051 | 🐛 11 | 🌐 C | 📅 2021-12-09
+* [CSCI 4968](https://github.com/RPISEC/MBE) ⭐ 6,052 | 🐛 11 | 🌐 C | 📅 2021-12-09 **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+  * [Labs](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,052 | 🐛 11 | 🌐 C | 📅 2021-12-09
+  * [Projects](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,052 | 🐛 11 | 🌐 C | 📅 2021-12-09
   * This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
     teach Modern Binary Exploitation at [Rensselaer Polytechnic Institute](http://rpi.edu) in
     Spring 2015. This was a university course developed and run solely by students to teach
@@ -1034,4 +1034,4 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
