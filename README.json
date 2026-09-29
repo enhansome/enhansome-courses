@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "angrave",
                     "repo": "SystemProgramming",
-                    "stars": 5761,
+                    "stars": 5760,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -173,7 +173,7 @@
                     "open_issues": 0,
                     "owner": "jaehyunp",
                     "repo": "stanfordacm",
-                    "stars": 1665,
+                    "stars": 1664,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -208,7 +208,7 @@
                     "open_issues": 24,
                     "owner": "sarabander",
                     "repo": "sicp",
-                    "stars": 4527,
+                    "stars": 4529,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -243,7 +243,7 @@
                     "open_issues": 43,
                     "owner": "yandexdataschool",
                     "repo": "Practical_RL",
-                    "stars": 6579,
+                    "stars": 6580,
                     "topics": [
                       "course-materials",
                       "deep-learning",
@@ -272,7 +272,7 @@
                 "open_issues": 43,
                 "owner": "yandexdataschool",
                 "repo": "Practical_RL",
-                "stars": 6579,
+                "stars": 6580,
                 "topics": [
                   "course-materials",
                   "deep-learning",
@@ -344,7 +344,7 @@
                     "open_issues": 85,
                     "owner": "chiphuyen",
                     "repo": "stanford-tensorflow-tutorials",
-                    "stars": 10372,
+                    "stars": 10373,
                     "topics": [
                       "chatbot",
                       "course-materials",
@@ -383,7 +383,7 @@
                     "open_issues": 272,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28200,
+                    "stars": 28206,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -526,7 +526,7 @@
                 "open_issues": 1,
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4071,
+                "stars": 4072,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:50.744Z"
@@ -552,7 +552,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4071,
+                    "stars": 4072,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -573,7 +573,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4071,
+                    "stars": 4072,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -594,7 +594,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4071,
+                    "stars": 4072,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T19:43:27.733Z",
+    "last_updated": "2026-09-29T18:08:37.374Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 65,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 71461,
+      "stars": 71480,
       "topics": [
         "awesome",
         "awesome-list",
