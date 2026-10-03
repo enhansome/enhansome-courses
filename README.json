@@ -13,7 +13,7 @@
                 {
                   "node_type": "item",
                   "title": "Crowd Sourced Book",
-                  "description": null,
+                  "description": "angrave/SystemProgramming",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "angrave",
                     "repo": "SystemProgramming",
-                    "stars": 5761,
+                    "stars": 5760,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -41,7 +41,7 @@
                 {
                   "node_type": "item",
                   "title": "Lecture slides",
-                  "description": null,
+                  "description": "patricklam/p4p-2015",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -76,7 +76,7 @@
                 {
                   "node_type": "item",
                   "title": "Notes",
-                  "description": null,
+                  "description": "compilers-course-materials/cs75-s16-lectures",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -104,7 +104,7 @@
                 {
                   "node_type": "item",
                   "title": "Assignments",
-                  "description": null,
+                  "description": "cis198-2016s/homework",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -160,7 +160,7 @@
                 {
                   "node_type": "item",
                   "title": "Lectures and Assignments",
-                  "description": null,
+                  "description": "jaehyunp/stanfordacm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -230,7 +230,7 @@
                 {
                   "node_type": "item",
                   "title": "Syllabus",
-                  "description": null,
+                  "description": "yandexdataschool/Practical_RL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -297,7 +297,7 @@
                 {
                   "node_type": "item",
                   "title": "Lectures",
-                  "description": null,
+                  "description": "oxford-cs-deepnlp-2017/lectures",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -370,7 +370,7 @@
                 {
                   "node_type": "item",
                   "title": "Jupyter Notebooks",
-                  "description": null,
+                  "description": "fastai/fastai",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -383,7 +383,7 @@
                     "open_issues": 274,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28209,
+                    "stars": 28210,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -442,7 +442,7 @@
                 {
                   "node_type": "item",
                   "title": "Labs",
-                  "description": null,
+                  "description": "RPISEC/MBE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -467,7 +467,7 @@
                 {
                   "node_type": "item",
                   "title": "Projects",
-                  "description": null,
+                  "description": "RPISEC/MBE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -539,7 +539,7 @@
                 {
                   "node_type": "item",
                   "title": "Lectures Notes",
-                  "description": null,
+                  "description": "RPISEC/Malware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -560,7 +560,7 @@
                 {
                   "node_type": "item",
                   "title": "Labs",
-                  "description": null,
+                  "description": "RPISEC/Malware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -581,7 +581,7 @@
                 {
                   "node_type": "item",
                   "title": "Projects",
-                  "description": null,
+                  "description": "RPISEC/Malware",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -616,7 +616,7 @@
                 {
                   "node_type": "item",
                   "title": "Lectures",
-                  "description": null,
+                  "description": "ut-cs378-vision-2014fall/course-info",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -666,7 +666,7 @@
                 {
                   "node_type": "item",
                   "title": "Github Page",
-                  "description": null,
+                  "description": "mikeizbicki/ucr-cs100",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -687,7 +687,7 @@
                 {
                   "node_type": "item",
                   "title": "Assignments",
-                  "description": null,
+                  "description": "mikeizbicki/ucr-cs100",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:55:11.938Z",
+    "last_updated": "2026-10-03T04:38:26.865Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 65,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 71539,
+      "stars": 71549,
       "topics": [
         "awesome",
         "awesome-list",
