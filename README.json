@@ -383,7 +383,7 @@
                     "open_issues": 274,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28218,
+                    "stars": 28221,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -526,7 +526,7 @@
                 "open_issues": 1,
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4475,
+                "stars": 4485,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:50.744Z"
@@ -552,7 +552,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4475,
+                    "stars": 4485,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -573,7 +573,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4475,
+                    "stars": 4485,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -594,7 +594,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4475,
+                    "stars": 4485,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:23:12.400Z",
+    "last_updated": "2026-10-11T17:43:12.284Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 65,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 71758,
+      "stars": 71785,
       "topics": [
         "awesome",
         "awesome-list",
