@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "angrave",
                     "repo": "SystemProgramming",
-                    "stars": 5768,
+                    "stars": 5769,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -310,7 +310,7 @@
                     "open_issues": 12,
                     "owner": "oxford-cs-deepnlp-2017",
                     "repo": "lectures",
-                    "stars": 15854,
+                    "stars": 15855,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -383,7 +383,7 @@
                     "open_issues": 274,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28224,
+                    "stars": 28227,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -455,7 +455,7 @@
                     "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6066,
+                    "stars": 6067,
                     "topics": [
                       "ctf",
                       "exploitation",
@@ -480,7 +480,7 @@
                     "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6066,
+                    "stars": 6067,
                     "topics": [
                       "ctf",
                       "exploitation",
@@ -501,7 +501,7 @@
                 "open_issues": 11,
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6066,
+                "stars": 6067,
                 "topics": [
                   "ctf",
                   "exploitation",
@@ -526,7 +526,7 @@
                 "open_issues": 1,
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4505,
+                "stars": 4511,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:50.744Z"
@@ -552,7 +552,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4505,
+                    "stars": 4511,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -573,7 +573,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4505,
+                    "stars": 4511,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -594,7 +594,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4505,
+                    "stars": 4511,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:22:19.065Z",
+    "last_updated": "2026-10-14T17:21:23.913Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 65,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 71855,
+      "stars": 71886,
       "topics": [
         "awesome",
         "awesome-list",
