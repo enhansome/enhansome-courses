@@ -331,7 +331,7 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * [Labs](http://www.cs.berkeley.edu/~jrs/61b/lab/index.html) The link to labs and projects is included in the website.
   * [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iC2Khb1B5NnbE7SHPQ1-W17)
 * [CS 97SI](http://web.stanford.edu/class/cs97si/) **Introduction to Competitive Programming** *Stanford University*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-  * [Lectures and Assignments](https://github.com/jaehyunp/stanfordacm) ⭐ 1,666 | 🐛 0 | 🌐 HTML | 📅 2020-12-24
+  * [Lectures and Assignments](https://github.com/jaehyunp/stanfordacm) ⭐ 1,668 | 🐛 0 | 🌐 HTML | 📅 2020-12-24
   * Fantastic repository of theory and practice problems across various topics for students who are interested to participate in ACM-ICPC.
 * [CS 224](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) **Advanced Algorithms** *Harvard University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
   * CS 224 is an advanced course in algorithm design, and topics we will cover include the word RAM model, data structures, amortization, online algorithms, linear programming, semidefinite programming, approximation algorithms, hashing, randomized algorithms, fast exponential time algorithms, graph algorithms, and computational geometry.
@@ -595,7 +595,7 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * This book (and course) takes a unique approach to “Intro CS.” In a nutshell, our objective is to provide an introduction to computer science as an intellectually rich and vibrant field rather than focusing exclusively on computer programming. While programming is certainly an important and pervasive element of our approach, we emphasize concepts and problem-solving over syntax and programming language features.
   * [Lectures and Other resources](https://www.cs.hmc.edu/twiki/bin/view/ModularCS1)
 * [6.001](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm) **Structure and Interpretation of Computer Programs** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-  * [Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html) ([epub](https://github.com/sarabander/sicp) ⭐ 4,530 | 🐛 24 | 🌐 HTML | 📅 2023-04-14, [pdf](https://github.com/sarabander/sicp-pdf) ⭐ 4,408 | 🐛 21 | 🌐 Perl | 📅 2024-06-27)
+  * [Textbook](http://mitpress.mit.edu/sicp/full-text/book/book.html) ([epub](https://github.com/sarabander/sicp) ⭐ 4,530 | 🐛 24 | 🌐 HTML | 📅 2023-04-14, [pdf](https://github.com/sarabander/sicp-pdf) ⭐ 4,409 | 🐛 21 | 🌐 Perl | 📅 2024-06-27)
   * Teaches big-picture computing concepts using the Scheme programming language. Students will implement programs in a variety of different programming paradigms (functional, object-oriented, logical). Heavy emphasis on function composition, code-as-data, control abstraction with continuations, and syntactic abstraction through macros. An excellent course if you are looking to build a mental framework on which to hang your programming knowledge.
   * [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures)
   * [IDE](http://www.neilvandyke.org/racket-sicp/)
@@ -611,7 +611,7 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus) ⭐ 6,593 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2026-03-31
   * A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (russian) and maintained to be friendly to online students (both english and russian).
 * [DEEPNLP](https://github.com/oxford-cs-deepnlp-2017/) **Deep Learning for Natural Language Processing** *University of Oxford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-  * [Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) ⭐ 15,853 | 🐛 12 | 📅 2023-07-02
+  * [Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) ⭐ 15,852 | 🐛 12 | 📅 2023-07-02
   * This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. We introduce the mathematical definitions of the relevant machine learning models and derive their associated optimisation algorithms. The course covers a range of applications of neural networks in NLP including analysing latent dimensions in text, transcribing speech to text, translating between languages, and answering questions. This course is organised by Phil Blunsom and delivered in partnership with the **DeepMind Natural Language Research Group**.
   * Assignments are available on the organisation page titled as "practicals"
 * [CS20si](http://web.stanford.edu/class/cs20si/index.html) **Tensorflow for Deep Learning Research** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
@@ -742,15 +742,15 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ### Security
 
-* [CSCI 4968](https://github.com/RPISEC/MBE) ⭐ 6,071 | 🐛 11 | 🌐 C | 📅 2021-12-09 **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
-  * [Labs](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,071 | 🐛 11 | 🌐 C | 📅 2021-12-09
-  * [Projects](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,071 | 🐛 11 | 🌐 C | 📅 2021-12-09
+* [CSCI 4968](https://github.com/RPISEC/MBE) ⭐ 6,072 | 🐛 11 | 🌐 C | 📅 2021-12-09 **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+  * [Labs](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,072 | 🐛 11 | 🌐 C | 📅 2021-12-09
+  * [Projects](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,072 | 🐛 11 | 🌐 C | 📅 2021-12-09
   * This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
     teach Modern Binary Exploitation at [Rensselaer Polytechnic Institute](http://rpi.edu) in
     Spring 2015. This was a university course developed and run solely by students to teach
     skills in vulnerability research, reverse engineering, and binary exploitation.
   * [Lectures Notes](http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/)
-* [CSCI 4976](https://github.com/RPISEC/Malware) ⭐ 4,517 | 🐛 1 | 📅 2022-08-26 **Malware Analysis** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+* [CSCI 4976](https://github.com/RPISEC/Malware) ⭐ 4,518 | 🐛 1 | 📅 2022-08-26 **Malware Analysis** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
   * This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
     teach Malware Analysis at [Rensselaer Polytechnic Institute](http://rpi.edu) in
     Fall 2015. This was a university course developed and run solely by students, primarily using the
@@ -772,9 +772,9 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * [Lectures](http://www.cs.cornell.edu/courses/CS5430/2013sp/02.outline.html)
   * [Assignments](http://www.cs.cornell.edu/courses/CS5430/2013sp/)
 * [EECS 588](https://www.eecs.umich.edu/courses/eecs588/) **Computer & Network Security** *University of Michigan* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  * [Lectures Notes](https://github.com/RPISEC/Malware/tree/master/Lectures) ⭐ 4,517 | 🐛 1 | 📅 2022-08-26
-  * [Labs](https://github.com/RPISEC/Malware/tree/master/Labs) ⭐ 4,517 | 🐛 1 | 📅 2022-08-26
-  * [Projects](https://github.com/RPISEC/Malware/tree/master/Projects) ⭐ 4,517 | 🐛 1 | 📅 2022-08-26
+  * [Lectures Notes](https://github.com/RPISEC/Malware/tree/master/Lectures) ⭐ 4,518 | 🐛 1 | 📅 2022-08-26
+  * [Labs](https://github.com/RPISEC/Malware/tree/master/Labs) ⭐ 4,518 | 🐛 1 | 📅 2022-08-26
+  * [Projects](https://github.com/RPISEC/Malware/tree/master/Projects) ⭐ 4,518 | 🐛 1 | 📅 2022-08-26
   * Taught by [J. Alex Halderman](https://jhalderm.com/) who has analyzed the security of Electronic Voting Machines in the [US](https://jhalderm.com/pub/papers/dcvoting-fc12.pdf) and [over](https://jhalderm.com/pub/papers/ivoting-ccs14.pdf) [seas](https://jhalderm.com/pub/papers/evm-ccs10.pdf).
   * This intensive research seminar covers foundational work and current topics in computer systems security.
   * [Readings](https://www.eecs.umich.edu/courses/eecs588/readings.html)
@@ -1034,4 +1034,4 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
