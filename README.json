@@ -243,7 +243,7 @@
                     "open_issues": 44,
                     "owner": "yandexdataschool",
                     "repo": "Practical_RL",
-                    "stars": 6593,
+                    "stars": 6594,
                     "topics": [
                       "course-materials",
                       "deep-learning",
@@ -272,7 +272,7 @@
                 "open_issues": 44,
                 "owner": "yandexdataschool",
                 "repo": "Practical_RL",
-                "stars": 6593,
+                "stars": 6594,
                 "topics": [
                   "course-materials",
                   "deep-learning",
@@ -526,7 +526,7 @@
                 "open_issues": 1,
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4518,
+                "stars": 4519,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:50.744Z"
@@ -552,7 +552,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4518,
+                    "stars": 4519,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -573,7 +573,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4518,
+                    "stars": 4519,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -594,7 +594,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4518,
+                    "stars": 4519,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T15:44:06.985Z",
+    "last_updated": "2026-10-18T15:59:21.614Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 65,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 71959,
+      "stars": 71994,
       "topics": [
         "awesome",
         "awesome-list",
