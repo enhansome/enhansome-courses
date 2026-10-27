@@ -310,7 +310,7 @@
                     "open_issues": 12,
                     "owner": "oxford-cs-deepnlp-2017",
                     "repo": "lectures",
-                    "stars": 15845,
+                    "stars": 15844,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -383,7 +383,7 @@
                     "open_issues": 279,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28235,
+                    "stars": 28240,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -420,7 +420,7 @@
                     "open_issues": 299,
                     "owner": "torch",
                     "repo": "torch7",
-                    "stars": 9140,
+                    "stars": 9138,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -455,7 +455,7 @@
                     "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6085,
+                    "stars": 6086,
                     "topics": [
                       "ctf",
                       "exploitation",
@@ -480,7 +480,7 @@
                     "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6085,
+                    "stars": 6086,
                     "topics": [
                       "ctf",
                       "exploitation",
@@ -501,7 +501,7 @@
                 "open_issues": 11,
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6085,
+                "stars": 6086,
                 "topics": [
                   "ctf",
                   "exploitation",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T18:43:45.801Z",
+    "last_updated": "2026-10-27T18:06:03.292Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 66,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 72258,
+      "stars": 72294,
       "topics": [
         "awesome",
         "awesome-list",
