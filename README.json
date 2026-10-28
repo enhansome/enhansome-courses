@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "angrave",
                     "repo": "SystemProgramming",
-                    "stars": 5772,
+                    "stars": 5773,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -173,7 +173,7 @@
                     "open_issues": 0,
                     "owner": "jaehyunp",
                     "repo": "stanfordacm",
-                    "stars": 1668,
+                    "stars": 1670,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -243,7 +243,7 @@
                     "open_issues": 43,
                     "owner": "yandexdataschool",
                     "repo": "Practical_RL",
-                    "stars": 6596,
+                    "stars": 6597,
                     "topics": [
                       "course-materials",
                       "deep-learning",
@@ -272,7 +272,7 @@
                 "open_issues": 43,
                 "owner": "yandexdataschool",
                 "repo": "Practical_RL",
-                "stars": 6596,
+                "stars": 6597,
                 "topics": [
                   "course-materials",
                   "deep-learning",
@@ -310,7 +310,7 @@
                     "open_issues": 12,
                     "owner": "oxford-cs-deepnlp-2017",
                     "repo": "lectures",
-                    "stars": 15844,
+                    "stars": 15843,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -383,7 +383,7 @@
                     "open_issues": 279,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28240,
+                    "stars": 28243,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:06:03.292Z",
+    "last_updated": "2026-10-28T18:23:34.949Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 66,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 72294,
+      "stars": 72355,
       "topics": [
         "awesome",
         "awesome-list",
