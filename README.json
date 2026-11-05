@@ -310,7 +310,7 @@
                     "open_issues": 12,
                     "owner": "oxford-cs-deepnlp-2017",
                     "repo": "lectures",
-                    "stars": 15849,
+                    "stars": 15847,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -383,7 +383,7 @@
                     "open_issues": 281,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28258,
+                    "stars": 28260,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -526,7 +526,7 @@
                 "open_issues": 1,
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4573,
+                "stars": 4574,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:50.744Z"
@@ -552,7 +552,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4573,
+                    "stars": 4574,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -573,7 +573,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4573,
+                    "stars": 4574,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -594,7 +594,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4573,
+                    "stars": 4574,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T19:54:06.268Z",
+    "last_updated": "2026-11-05T20:06:35.100Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 66,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 72560,
+      "stars": 72594,
       "topics": [
         "awesome",
         "awesome-list",
