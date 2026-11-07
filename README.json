@@ -383,7 +383,7 @@
                     "open_issues": 281,
                     "owner": "fastai",
                     "repo": "fastai",
-                    "stars": 28260,
+                    "stars": 28262,
                     "topics": [
                       "colab",
                       "deep-learning",
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:33:16.765Z",
+    "last_updated": "2026-11-07T17:47:09.676Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -772,7 +772,7 @@
       "open_issues": 66,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 72619,
+      "stars": 72647,
       "topics": [
         "awesome",
         "awesome-list",
