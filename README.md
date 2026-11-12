@@ -607,8 +607,8 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ### Machine Learning
 
-* [Practical\_RL](https://github.com/yandexdataschool/Practical_RL) ⭐ 6,606 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-10-20 **Reinforcement Learning in the Wild** *Yandex SDA* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  * [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus) ⭐ 6,606 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-10-20
+* [Practical\_RL](https://github.com/yandexdataschool/Practical_RL) ⭐ 6,607 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-10-20 **Reinforcement Learning in the Wild** *Yandex SDA* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+  * [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus) ⭐ 6,607 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-10-20
   * A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (russian) and maintained to be friendly to online students (both english and russian).
 * [DEEPNLP](https://github.com/oxford-cs-deepnlp-2017/) **Deep Learning for Natural Language Processing** *University of Oxford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
   * [Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) ⭐ 15,845 | 🐛 12 | 📅 2023-07-02
@@ -742,15 +742,15 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ### Security
 
-* [CSCI 4968](https://github.com/RPISEC/MBE) ⭐ 6,100 | 🐛 11 | 🌐 C | 📅 2021-12-09 **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
-  * [Labs](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,100 | 🐛 11 | 🌐 C | 📅 2021-12-09
-  * [Projects](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,100 | 🐛 11 | 🌐 C | 📅 2021-12-09
+* [CSCI 4968](https://github.com/RPISEC/MBE) ⭐ 6,103 | 🐛 11 | 🌐 C | 📅 2021-12-09 **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+  * [Labs](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,103 | 🐛 11 | 🌐 C | 📅 2021-12-09
+  * [Projects](https://github.com/RPISEC/MBE/tree/master/src) ⭐ 6,103 | 🐛 11 | 🌐 C | 📅 2021-12-09
   * This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
     teach Modern Binary Exploitation at [Rensselaer Polytechnic Institute](http://rpi.edu) in
     Spring 2015. This was a university course developed and run solely by students to teach
     skills in vulnerability research, reverse engineering, and binary exploitation.
   * [Lectures Notes](http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/)
-* [CSCI 4976](https://github.com/RPISEC/Malware) ⭐ 4,576 | 🐛 1 | 📅 2022-08-26 **Malware Analysis** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+* [CSCI 4976](https://github.com/RPISEC/Malware) ⭐ 4,577 | 🐛 1 | 📅 2022-08-26 **Malware Analysis** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
   * This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
     teach Malware Analysis at [Rensselaer Polytechnic Institute](http://rpi.edu) in
     Fall 2015. This was a university course developed and run solely by students, primarily using the
@@ -772,9 +772,9 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
   * [Lectures](http://www.cs.cornell.edu/courses/CS5430/2013sp/02.outline.html)
   * [Assignments](http://www.cs.cornell.edu/courses/CS5430/2013sp/)
 * [EECS 588](https://www.eecs.umich.edu/courses/eecs588/) **Computer & Network Security** *University of Michigan* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  * [Lectures Notes](https://github.com/RPISEC/Malware/tree/master/Lectures) ⭐ 4,576 | 🐛 1 | 📅 2022-08-26
-  * [Labs](https://github.com/RPISEC/Malware/tree/master/Labs) ⭐ 4,576 | 🐛 1 | 📅 2022-08-26
-  * [Projects](https://github.com/RPISEC/Malware/tree/master/Projects) ⭐ 4,576 | 🐛 1 | 📅 2022-08-26
+  * [Lectures Notes](https://github.com/RPISEC/Malware/tree/master/Lectures) ⭐ 4,577 | 🐛 1 | 📅 2022-08-26
+  * [Labs](https://github.com/RPISEC/Malware/tree/master/Labs) ⭐ 4,577 | 🐛 1 | 📅 2022-08-26
+  * [Projects](https://github.com/RPISEC/Malware/tree/master/Projects) ⭐ 4,577 | 🐛 1 | 📅 2022-08-26
   * Taught by [J. Alex Halderman](https://jhalderm.com/) who has analyzed the security of Electronic Voting Machines in the [US](https://jhalderm.com/pub/papers/dcvoting-fc12.pdf) and [over](https://jhalderm.com/pub/papers/ivoting-ccs14.pdf) [seas](https://jhalderm.com/pub/papers/evm-ccs10.pdf).
   * This intensive research seminar covers foundational work and current topics in computer systems security.
   * [Readings](https://www.eecs.umich.edu/courses/eecs588/readings.html)
@@ -1034,4 +1034,4 @@ There are a lot of ~~hidden~~ treasures lying within university pages scattered 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
