@@ -173,7 +173,7 @@
                     "open_issues": 0,
                     "owner": "jaehyunp",
                     "repo": "stanfordacm",
-                    "stars": 1672,
+                    "stars": 1673,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -243,7 +243,7 @@
                     "open_issues": 43,
                     "owner": "yandexdataschool",
                     "repo": "Practical_RL",
-                    "stars": 6612,
+                    "stars": 6614,
                     "topics": [
                       "course-materials",
                       "deep-learning",
@@ -272,7 +272,7 @@
                 "open_issues": 43,
                 "owner": "yandexdataschool",
                 "repo": "Practical_RL",
-                "stars": 6612,
+                "stars": 6614,
                 "topics": [
                   "course-materials",
                   "deep-learning",
@@ -310,7 +310,7 @@
                     "open_issues": 12,
                     "owner": "oxford-cs-deepnlp-2017",
                     "repo": "lectures",
-                    "stars": 15846,
+                    "stars": 15847,
                     "topics": [
                       "deep-learning",
                       "machine-learning",
@@ -455,7 +455,7 @@
                     "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6105,
+                    "stars": 6104,
                     "topics": [
                       "ctf",
                       "exploitation",
@@ -480,7 +480,7 @@
                     "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6105,
+                    "stars": 6104,
                     "topics": [
                       "ctf",
                       "exploitation",
@@ -501,7 +501,7 @@
                 "open_issues": 11,
                 "owner": "RPISEC",
                 "repo": "MBE",
-                "stars": 6105,
+                "stars": 6104,
                 "topics": [
                   "ctf",
                   "exploitation",
@@ -526,7 +526,7 @@
                 "open_issues": 1,
                 "owner": "RPISEC",
                 "repo": "Malware",
-                "stars": 4577,
+                "stars": 4578,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:50.744Z"
@@ -552,7 +552,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4577,
+                    "stars": 4578,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -573,7 +573,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4577,
+                    "stars": 4578,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -594,7 +594,7 @@
                     "open_issues": 1,
                     "owner": "RPISEC",
                     "repo": "Malware",
-                    "stars": 4577,
+                    "stars": 4578,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:50.744Z"
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T19:52:48.421Z",
+    "last_updated": "2026-11-14T18:18:26.760Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: List of awesome university courses for learning Computer Science!",
@@ -769,10 +769,10 @@
       "language": null,
       "license": null,
       "last_commit": "2023-05-04T12:49:34Z",
-      "open_issues": 66,
+      "open_issues": 67,
       "owner": "prakhar1989",
       "repo": "awesome-courses",
-      "stars": 72845,
+      "stars": 72868,
       "topics": [
         "awesome",
         "awesome-list",
